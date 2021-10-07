@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8c3a9a1d-c1a5-405b-9411-961a7275fed3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/sugar-cane-employee-managment",
+    "appService.deploySubpath": "."
+}
